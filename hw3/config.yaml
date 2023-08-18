@@ -1,0 +1,8 @@
+folder_in: /home/andrey/tst/file
+folder_out: /home/andrey/tst/out
+folder_ext: /home/andrey/tst/ext
+folder_badarx: /home/andrey/tst/badarx
+count_file: 6
+size_file: 2M
+arc_type: zip
+bad_arc_type: rur
