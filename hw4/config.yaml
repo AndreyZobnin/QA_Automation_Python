@@ -1,5 +1,6 @@
 remote_path: /home/user2/
 local_path: /home/andrey/tst
+folder_badarx: /home/user2/tst/badarx
 folder_in: /home/user2/tst/file
 folder_out: /home/user2/tst/out
 folder_ext: /home/user2/tst/ext
